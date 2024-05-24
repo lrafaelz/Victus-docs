@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as e}from"./chunks/framework.BwTyoF0R.js";const g=JSON.parse('{"title":"Milestones","description":"","frontmatter":{},"headers":[],"relativePath":"milestones.md","filePath":"milestones.md"}'),n={name:"milestones.md"},t=e("",7),l=[t];function h(p,r,o,d,k,c){return a(),i("div",null,l)}const u=s(n,[["render",h]]);export{g as __pageData,u as default};
