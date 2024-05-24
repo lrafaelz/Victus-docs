@@ -1,6 +1,4 @@
-import { defineConfig } from "vitepress"
-
-export default defineConfig({
+module.exports = {
   lang: 'pt-BR',
   lastUpdated: true,
   locales: {
@@ -30,5 +28,4 @@ export default defineConfig({
       { text: 'Github', link: '/github/' }
     ],
   }
-})
-  
+}
