@@ -262,7 +262,8 @@ VCC - 5V pin
 
 GND - Ground pin
 
-### Código:
+<details class="details custom-block">
+	<summary>Código:</summary>
 
 ```cpp
 int hall_din=10;
@@ -330,6 +331,8 @@ void loop(){
 }
 ```
 
+</details>
+
 ## 🕹️ Joystick
 
 <div align="center" flexDirection="row" justifyContent="space-between">
@@ -349,7 +352,8 @@ GND - Ground pin
 
 none - SW
 
-### Código:
+<details class="details custom-block">
+	<summary>Código:</summary>
 
 ```cpp
 const int pinX = A0;
@@ -383,3 +387,5 @@ void loop() {
   delay(2);
 }
 ```
+
+</details>
