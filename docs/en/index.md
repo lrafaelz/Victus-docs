@@ -9,7 +9,5 @@ hero:
     - theme: brand
       text: Sensors
       link: /sensors
-    - theme: secondary
-      text: Milestones
-      link: /milestones
+
 ---

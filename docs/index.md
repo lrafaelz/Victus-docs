@@ -10,6 +10,6 @@ hero:
     alt: Victus Exergame Logo
   actions:
     - theme: brand
-      text: Milestones
-      link: /milestones
+      text: Sensoriamento
+      link: /sensoriamento
 ---

@@ -32,7 +32,6 @@ export default {
     ],
     nav: [
       { text: 'Sensoriamento', link: '/sensoriamento/' },
-      { text: 'Milestones', link: '/milestones/' },
       { text: 'Equipe', link: '/ourTeam/' },
     ],
     footer: {
